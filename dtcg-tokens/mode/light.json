@@ -1,0 +1,89 @@
+{
+  "color": {
+    "accent": {
+      "$description": "Brand accent: links, highlights, selected state.",
+      "$type": "color",
+      "$value": "{color.sky.700}"
+    },
+    "accent-foreground": {
+      "$description": "Text on accent.",
+      "$type": "color",
+      "$value": "{color.white}"
+    },
+    "background": {
+      "$description": "Page background.",
+      "$type": "color",
+      "$value": "{color.white}"
+    },
+    "border": {
+      "$description": "Dividers and component borders.",
+      "$type": "color",
+      "$value": "{neutral.200}"
+    },
+    "destructive": {
+      "$description": "Destructive actions and errors.",
+      "$type": "color",
+      "$value": "{color.red.600}"
+    },
+    "destructive-foreground": {
+      "$description": "Text on destructive.",
+      "$type": "color",
+      "$value": "{color.white}"
+    },
+    "foreground": {
+      "$description": "Default text on background.",
+      "$type": "color",
+      "$value": "{neutral.950}"
+    },
+    "input": {
+      "$description": "Form control borders.",
+      "$type": "color",
+      "$value": "{neutral.300}"
+    },
+    "muted": {
+      "$description": "Subdued fills: hover rows, inactive tabs.",
+      "$type": "color",
+      "$value": "{neutral.100}"
+    },
+    "muted-foreground": {
+      "$description": "Secondary text, placeholders, captions.",
+      "$type": "color",
+      "$value": "{neutral.500}"
+    },
+    "primary": {
+      "$description": "Primary actions.",
+      "$type": "color",
+      "$value": "{neutral.900}"
+    },
+    "primary-foreground": {
+      "$description": "Text on primary.",
+      "$type": "color",
+      "$value": "{neutral.50}"
+    },
+    "ring": {
+      "$description": "Focus rings.",
+      "$type": "color",
+      "$value": "{neutral.400}"
+    },
+    "secondary": {
+      "$description": "Secondary actions.",
+      "$type": "color",
+      "$value": "{neutral.100}"
+    },
+    "secondary-foreground": {
+      "$description": "Text on secondary.",
+      "$type": "color",
+      "$value": "{neutral.900}"
+    },
+    "surface": {
+      "$description": "Raised areas: cards, popovers, panels.",
+      "$type": "color",
+      "$value": "{neutral.50}"
+    },
+    "surface-foreground": {
+      "$description": "Text on surface.",
+      "$type": "color",
+      "$value": "{neutral.950}"
+    }
+  }
+}

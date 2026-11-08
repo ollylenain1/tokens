@@ -1,0 +1,48 @@
+{
+  "neutral": {
+    "50": {
+      "$type": "color",
+      "$value": "{color.mist.50}"
+    },
+    "100": {
+      "$type": "color",
+      "$value": "{color.mist.100}"
+    },
+    "200": {
+      "$type": "color",
+      "$value": "{color.mist.200}"
+    },
+    "300": {
+      "$type": "color",
+      "$value": "{color.mist.300}"
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{color.mist.400}"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "{color.mist.500}"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "{color.mist.600}"
+    },
+    "700": {
+      "$type": "color",
+      "$value": "{color.mist.700}"
+    },
+    "800": {
+      "$type": "color",
+      "$value": "{color.mist.800}"
+    },
+    "900": {
+      "$type": "color",
+      "$value": "{color.mist.900}"
+    },
+    "950": {
+      "$type": "color",
+      "$value": "{color.mist.950}"
+    }
+  }
+}
